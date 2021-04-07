@@ -1,0 +1,4 @@
+1. Install SAGE 300 ERP .NET (Automatically installed on new version)
+2. Import Accpac Advance .dll (references) from folder :
+   - C:\Windows\Microsoft.NET\assembly\GAC_32\ACCPAC.Advantage + "SAGE 300 ERP .NET version"
+   - C:\Windows\Microsoft.NET\assembly\GAC_MSIL\ACCPAC.Advantage.Types + "SAGE 300 ERP .NET version"
